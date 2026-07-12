@@ -1,3 +1,3 @@
 Hi there!
 
-Thanks for visiting. I don't have much to show yet, but I will eventually. Stay tuned!
+Thanks for visiting. I'm working on a reorg of local projects. I'll commit them when I finish. Stay tuned!
